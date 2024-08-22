@@ -20,10 +20,6 @@ This project implements an electronic voting system to ensure secure and tamper-
 2. Compile and run the `DynamicVotingSystem` Java class.
 3. Follow the prompts to register voters, cast votes, and audit the results.
 
-```bash
-javac DynamicVotingSystem.java
-java DynamicVotingSystem
-
 ## Extra Features
 
 - **Automatic detection of tampered votes**: Identifies and flags votes that have been altered.
